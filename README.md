@@ -64,11 +64,8 @@ The dashboard focuses on monitoring SLA performance, identifying factors affecti
 ### Overview
 ![Overview](images/salla-overview.png)
 
-### SLA Analysis
-![SLA](images/sla.png)
+### Abandon Rate Analysis Insights
+![Why Analysis](images/salla-why-analysis.png)
 
-### Abandon Rate Analysis
-![Abandon](images/abandon.png)
 
----
 
