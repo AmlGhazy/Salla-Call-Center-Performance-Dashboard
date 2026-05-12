@@ -62,15 +62,6 @@ The dashboard focuses on monitoring SLA performance, identifying factors affecti
 - What-if Parameters  
 - Drill-through Analysis  
 
----
-
-## 📸 Dashboard Preview
-
-### Overview
-![Overview](images/salla-overview.png)
-
-### Abandon Rate Analysis Insights
-![Why Analysis](images/salla-why-analysis.png)
 
 
 
