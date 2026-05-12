@@ -1,3 +1,4 @@
+<img align="right" width="320" src="images/salla-overview.png">
 # 📞 Salla-Call-Center-Performance-Dashboard
 
 Power BI dashboard analyzing call center operations, SLA trends, abandon rates, and agent performance across multiple projects.
