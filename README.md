@@ -62,7 +62,7 @@ The dashboard focuses on monitoring SLA performance, identifying factors affecti
 ## 📸 Dashboard Preview
 
 ### Overview
-![Overview](images/Salla Overview.PNG)
+![Overview](images/salla-overview.png)
 
 ### SLA Analysis
 ![SLA](images/sla.png)
