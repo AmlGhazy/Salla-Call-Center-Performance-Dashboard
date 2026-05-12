@@ -52,6 +52,7 @@ The dashboard focuses on monitoring SLA performance, identifying factors affecti
 ## 🔗 Project Sharing
 
 👉 LinkedIn Case Study: (https://www.linkedin.com/posts/aml-ghazy-b1a50b3a4_powerbi-businessintelligence-datavisualization-ugcPost-7432173269048352768-RiFP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGMIDIYBHodAL2wtNlFwkDPUWM0DzigmRgk)
+---
 
 ## 🛠️ Tools Used
 - Power BI  
