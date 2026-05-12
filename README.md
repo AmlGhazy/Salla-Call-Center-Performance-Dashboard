@@ -1,7 +1,5 @@
 # 📞 Salla-Call-Center-Performance-Dashboard
 
-Interactive Power BI dashboard for call center performance and SLA analysis.
-
 Power BI dashboard analyzing call center operations, SLA trends, abandon rates, and agent performance across multiple projects.
 
 ---
