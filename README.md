@@ -16,7 +16,7 @@ The dashboard focuses on monitoring SLA performance, identifying factors affecti
 - Monitor SLA trends across projects
 - Analyze abandon rate patterns
 - Evaluate agent performance
-- Identify operational bottlenecks
+- Detect performance issues
 - Support decision-making using what-if scenarios
 
 ---
