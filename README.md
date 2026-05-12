@@ -1,9 +1,12 @@
-<img align="right" width="320" src="images/salla-overview.png">
-📞 Salla-Call-Center-Performance-Dashboard
+<p align="center">
+  <img width="700" src="images/salla-overview.png">
+</p>
+
+# 📞 Salla-Call-Center-Performance-Dashboard
 
 Power BI dashboard analyzing call center operations, SLA trends, abandon rates, and agent performance across multiple projects.
 
----
+
 
 ## 📊 Overview
 This project presents an interactive Power BI dashboard designed to analyze the performance of three call center projects (A, B, and C) over a three-month period (February, March, and April).
