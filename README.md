@@ -21,16 +21,11 @@ The dashboard focuses on monitoring SLA performance, identifying factors affecti
 
 ---
 
-## 📌 Key Features
-- Interactive Ribbon & Line Charts for project ranking and SLA trends
-- Toggle buttons for dynamic monthly and daily analysis
-- Detailed agent performance tooltips
-- Drill-through analysis for abandon rate investigation
-- Decomposition Tree for agent-level insights
-- What-if Parameters to simulate:
-  - Agent count impact
-  - Average Speed of Answer (ASA)
-  - Abandon rate changes
+## 📊 Key KPIs
+- SLA Achievement
+- Calls Handled
+- Calls Offered
+- Abandonment Rate
 
 ---
 
